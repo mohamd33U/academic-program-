@@ -1,5 +1,5 @@
 
-#SEMESTER 1
+#SEMESTER 1  <== me 🤓
 - Analysis 1
 - Algebra 1
 - Digital Electronics
