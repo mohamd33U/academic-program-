@@ -1,6 +1,5 @@
-I'll translate this academic program outline from French to English:
 
-SEMESTER 1
+#SEMESTER 1
 - Analysis 1
 - Algebra 1
 - Digital Electronics
@@ -9,7 +8,7 @@ SEMESTER 1
 - University Work Methodology
 - Foreign Languages (English/French/Spanish)
 
-SEMESTER 2
+#SEMESTER 2
 - Analysis 2
 - Algebra 2
 - Signal Processing
@@ -18,7 +17,7 @@ SEMESTER 2
 - Digital Culture
 - Foreign Languages (English/French/Spanish)
 
-SEMESTER 3
+#SEMESTER 3
 - Probability and Statistics
 - Web Programming
 - Computer Architecture
@@ -27,7 +26,7 @@ SEMESTER 3
 - Cultural and Artistic Skills
 - Foreign Languages (English/French/Spanish)
 
-SEMESTER 4
+#SEMESTER 4
 - Operations Research and Optimization
 - Relational Databases
 - Networks
@@ -36,7 +35,7 @@ SEMESTER 4
 - Personal Development
 - Foreign Languages (English/French/Spanish)
 
-SEMESTER 5
+#SEMESTER 5
 - Java Technology
 - UML Modeling
 - XML Technology
@@ -45,7 +44,7 @@ SEMESTER 5
 - Digital Skills II
 - Foreign Languages (English/French/Spanish)
 
-SEMESTER 6
+#SEMESTER 6
 - Python Programming
 - Big Data
 - Multimedia Data Analysis
@@ -54,4 +53,3 @@ SEMESTER 6
 - Law, Citizenship and Ethics
 - Foreign Languages (English/French/Spanish)
 
-This appears to be a computer science or information technology curriculum spread across six semesters, with a strong focus on programming languages, mathematics, and data analysis, while maintaining consistent language education throughout.
