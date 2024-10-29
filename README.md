@@ -1,3 +1,4 @@
+Applied Computer Science Data Science (University of Sidi Mohamed Ben Abdellah).
 
 #SEMESTER 1  <== me 🤓
 - Analysis 1
